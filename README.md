@@ -1,6 +1,19 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# 👋 Hi, I’m Sruthi!
+
+<br />
+
+I'm a Machine Learning enthusiast from India 🇮🇳
+
+**About me**
+
+- 🌱 I’m currently learning about **Competitive Programming** and **Web Development**
+
+- 💬 Ask me about **Python, ReactJs and DSA**
+
+- 📫 How to reach me **sruthisen1906@gmail.com**
+
+- ⚡ Fun Fact: My favorite comfort food is chocolate mint icecream
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
