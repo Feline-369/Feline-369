@@ -44,7 +44,7 @@ I'm a maniac from India 🇮🇳
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Feline-369&theme=monokai" alt="GitHub Streak" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feline-369&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feline-369&layout=compact&theme=monokai)]
 
 ---
 ### 🏆 Github trophies:
@@ -53,7 +53,7 @@ I'm a maniac from India 🇮🇳
 
 <h3 align="left">Please do not Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sruthi-sen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshit sisodiya" height="30" width="40" /></a>
-<a href="https://leetcode.com/Feline_369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sisodiarakshit456" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sruthi-sen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sruthi" height="30" width="40" /></a>
+<a href="https://leetcode.com/Feline_369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Feline_369" height="30" width="40" /></a>
   
 </p>
