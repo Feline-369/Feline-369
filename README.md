@@ -47,8 +47,8 @@ I'm a maniac from India 🇮🇳
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feline-369&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-/* ### 🏆 Github trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Feline-369" alt="" /></a></p> */
+### 🏆 Github trophies:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Feline-369" alt="" /></a></p>
 
 
 <h3 align="left">Please do not Connect with me:</h3>
