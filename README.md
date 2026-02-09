@@ -12,19 +12,19 @@
 
 ### :woman_technologist: About Me :
 
-I'm a Machine Learning enthusiast from India 🇮🇳
+I'm a maniac from India 🇮🇳
 
-- 🌱 I’m currently learning about **Competitive Programming** and **Web Development**
+- 🌱 I’m currently learning about my incompetency limit 
 
-- 💬 Ask me about **Python, ReactJs and DSA**
+- 💬 Ask me about different ways a human can k$$$ themselves
 
 - 📫 How to reach me **sruthisen1906@gmail.com**
 
-- ⚡ Fun Fact: My favorite comfort food is chocolate mint icecream
+- ⚡ Fun Fact: My favorite comfort food is snake venom maybe idk never tried it.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools I pretend I know about :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -47,11 +47,11 @@ I'm a Machine Learning enthusiast from India 🇮🇳
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feline-369&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### 🏆 Github trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Feline-369" alt="" /></a></p>
+/* ### 🏆 Github trophies:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Feline-369" alt="" /></a></p> */
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Please do not Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sruthi-sen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshit sisodiya" height="30" width="40" /></a>
 <a href="https://leetcode.com/Feline_369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sisodiarakshit456" height="30" width="40" /></a>
