@@ -47,7 +47,7 @@ I'm a programmer from India 🇮🇳
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Feline-369" alt="" /></a></p>
 
 
-<h3 align="left">Please do not Connect with me:</h3>
+<h3 align="left">Please Connect with me at:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sruthi-sen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sruthi" height="30" width="40" /></a>
 <a href="https://leetcode.com/Feline_369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Feline_369" height="30" width="40" /></a>
