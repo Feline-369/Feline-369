@@ -12,15 +12,11 @@
 
 ### :woman_technologist: About Me :
 
-I'm a maniac from India 🇮🇳
+I'm a programmer from India 🇮🇳
 
-- 🌱 I’m currently learning about my incompetency limit 
+- 🌱 I’m currently learning about Web Ao
 
-- 💬 Ask me about different ways a human can k$$$ themselves
-
-- 📫 How to reach me **sruthisen1906@gmail.com**
-
-- ⚡ Fun Fact: My favorite comfort food is snake venom maybe idk never tried it.
+- 📫 How to reach me **sruthisen1906@gmail.com**.
 
 ---
 
