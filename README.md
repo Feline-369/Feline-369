@@ -14,7 +14,7 @@
 
 I'm a programmer from India 🇮🇳
 
-- 🌱 I’m currently learning about Web Ao
+- 🌱 I’m currently learning about Backend Development.
 
 - 📫 How to reach me **sruthisen1906@gmail.com**.
 
